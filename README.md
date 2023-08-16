@@ -2,10 +2,9 @@
 This repo is for Phantom In The Dark build version.
 The development version is not public.
 
-To play the game in windows:
-1. Download this repo as zip
-2. Extract it,
-3. Run .exe
+Download the game from itch.io:
+https://syxddd.itch.io/phantom-in-the-dark
+password: awesomeblossom
 
 Preview of the game: 
 
