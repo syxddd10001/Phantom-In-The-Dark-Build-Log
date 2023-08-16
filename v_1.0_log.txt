@@ -1,0 +1,44 @@
+Build 1.0
+
+- Added main menu
+  - Added menu for selecting levels
+  - Added character selection screen
+
+- Added pause menu UI
+- Added 3 new characters
+- Added animations for idle, run, jump, dash and abilities
+- Characters:
+  1) Phantom:
+    - Q: Slice through enemies and deal critical damage
+    - E: Go invisible for 3 seconds, makes character immune to enemy attacks
+    - Passive: Chance to do critical hit every normal attack 
+  
+  2) Martial Hero:
+    - Q: Go Berserk. Increases attack speed significantly and adds bonus damage to attack 
+    but costs 50% of the player's current health
+    - Passive: During berserk, gain the ability to heal with every normal hit
+
+  3) Leaf Ranger:
+    - Q: Fire a storm of arrows, dealing damage per second in an area
+    - E: Shoot a beam of laser dealing massive damage that pierces through enemies
+
+- Added new enemies
+  1) Knight
+  2) NightBorne
+  3) Eyeworm
+- Added enemy AI scripts and enemy behavior to chase and attack the enemy
+- Added new enemy health UI
+
+- Designed and implemented Castle Underground level
+- Added animations for candles
+
+Issues and Bugs:
+- screen tear when running and dashing
+- map clipping issues near stairs (random box collider)
+- no level end
+- enemy randomly stops chasing and attacking
+- pause menu screen glitches
+- no death/gameover screen
+- no sounds or controls menu
+
+
