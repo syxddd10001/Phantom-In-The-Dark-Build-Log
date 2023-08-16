@@ -10,18 +10,18 @@ It has one level with dynamic lighting and 3 types of enemies.
 **https://syxddd.itch.io/phantom-in-the-dark
 password: awesomeblossom**
 
+Preview:
+
+
+
+My journey developing this game:
+
 This game has been a hobby project of mine that I've been building for more than 6 months now.
 Although most of the artwork in this game is not original, a lot of time and effort went into the design, coding, and development of this game.
 
 The game feels smooth and fun to play. That is because I have played and studied other successful games and implemented similar mechanics. Although the initial character movement mechanic didn't take that long, making it smooth and fun was challenging. I had to spend countless hours figuring out the math and code that makes the character mechanics feel smooth and fun to play. Then I also had to do animations for mulitple characters. The implementation of the character mechanics took about a month. 
 
-But that was not the most challenging part of developing this game.
-
-The most challenging part of my project has been adding enemy AI. It took me
-about 3 months to implement an enemy AI that chases and attacks the player.
-Initially, I was trying to code my own enemy AI, which then I realized isn't an easy task. 
-But, then I found the A* Path Finding Algorithm library that I implemented into my game.
-It saved me a ton of time as I didn't have to write all the pathfinding algorithm code. 
+But that was not the most challenging part of developing this game. The most challenging part of my project has been adding enemy AI. It took me about 3 months to implement an enemy AI that chases and attacks the player. Initially, I was trying to code my own enemy AI, which then I realized isn't an easy task. But, then I found the A* Path Finding Algorithm library that I implemented into my game. It saved me a ton of time as I didn't have to write all the pathfinding algorithm code. 
 I just implemented the library which I integrated with my existing enemies.
 
 The level design also took some time. I wanted the map to be pretty, so I implemented dynamic lighting and animations for my lighting as well. The map design wasn't that hard to implement. But I did occasionally run into clipping issues in the map. I had to manually fix those through rigorous playtesting.
