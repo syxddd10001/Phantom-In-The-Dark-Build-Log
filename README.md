@@ -12,6 +12,10 @@ password: awesomeblossom**
 
 Short Previews (Low Quality):
 
+Main Menu: 
+
+https://github.com/syxddd10001/Phantom-In-The-Dark-Build-Version/assets/121273500/c266a663-515d-4709-a8c9-0634de909c79
+
 Phantom:
 
 https://github.com/syxddd10001/Phantom-In-The-Dark-Build-Version/assets/121273500/638d4892-50b6-481f-8754-e69b462b8bfd
