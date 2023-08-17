@@ -12,11 +12,23 @@ password: awesomeblossom**
 
 Short Previews (Low Quality):
 
+Phantom:
+
+https://github.com/syxddd10001/Phantom-In-The-Dark-Build-Version/assets/121273500/638d4892-50b6-481f-8754-e69b462b8bfd
+
 Miyamoto Musashi:
+
 https://github.com/syxddd10001/Phantom-In-The-Dark-Build-Version/assets/121273500/bb72fb96-2498-4c1c-84f0-ce4120f06a57
 
 Leaf Ranger:
+
 https://github.com/syxddd10001/Phantom-In-The-Dark-Build-Version/assets/121273500/60cdbf44-19dd-4fb9-9b2b-ee46edb97bac
+
+Water Priestess:
+
+https://github.com/syxddd10001/Phantom-In-The-Dark-Build-Version/assets/121273500/6b5ff9f8-c7a1-4fad-92d1-8b85074c6ede
+
+
 
 **Full Preview (video capped at 30fps):**
 https://drive.google.com/file/d/1FFq8dcu8tWGpnPG8FDE9IUUBgumz1dU6/view?usp=drive_link
