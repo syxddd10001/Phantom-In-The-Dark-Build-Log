@@ -1,0 +1,20 @@
+Build 1.1
+
+- Bug fixes mainly
+  - fixed screen tear
+  - fixed map clipping issues
+  - added level end
+  - fixed pause menu glitch
+  - added death screen
+  - added sounds and controls menu
+  - fixed marshal hero q ability glitch that would get him off the map
+  - fixed enemy AI bug
+  - set enemy upper and lower bound for player search 
+  
+Updated Icons for characters
+
+Issues and Bugs: 
+  - Too many enemies in a single area
+  - Level too difficult
+  - Clipping issue in stairs
+  
