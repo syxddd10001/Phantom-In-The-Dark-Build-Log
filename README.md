@@ -1,5 +1,5 @@
 # Phantom-In-The-Dark-Build-Version
-Repo for Phantom In The Dark build version. The development repository is not public. This repo is only for documenting the progress of my game. Each version has a log with all the added features and bugs.
+Repo for Phantom In The Dark build log. The development repository is not public. This repo is only for documenting the progress of my game. Each version has a log with all the added features and bugs.
 
 
 Phantom In The Dark is a 2D action side-scroller game. 
