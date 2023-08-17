@@ -21,6 +21,7 @@ Build 1.0
   3) Leaf Ranger:
     - Q: Fire a storm of arrows, dealing damage per second in an area
     - E: Shoot a beam of laser dealing massive damage that pierces through enemies
+    - Passive: Root enemies in place for 2 seconds
 
 - Added new enemies
   1) Knight
