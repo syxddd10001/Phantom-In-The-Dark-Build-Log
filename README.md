@@ -1,4 +1,4 @@
-# Phantom-In-The-Dark-Build-Version
+# Phantom In The Dark Build Log
 Repo for Phantom In The Dark build log. The development repository is not public. This repo is only for documenting the progress of my game. Each version has a log with all the added features and bugs.
 
 
